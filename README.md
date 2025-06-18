@@ -33,7 +33,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] (You can add any extra enhancements here, for example:)
 * [ ] Custom UI styling and colors for dark/light mode
 * [ ] Animated keyboard and board feedback
 * [ ] Score tracking for multiple rounds
